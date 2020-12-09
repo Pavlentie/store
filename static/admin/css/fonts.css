@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Georgia';
+	src: url('../../../../идз/fonts/Georgia.eot');
+	src: local('Georgia'),
+		url('../../../../идз/fonts/Georgia.eot?#iefix') format('embedded-opentype'),
+		url('../../../../идз/fonts/Georgia.woff') format('woff'),
+		url('../../../../идз/fonts/Georgia.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
